@@ -8,6 +8,7 @@
     I've worked on a variety of projects to help many clients build their successful solutions.
     I specialize in JavaScript, PHP, Python and C++. And my skills include:
 
+    + Mobile Developer 
     + Full Stack JavaScript for Web3
     + Full Stack Web Dev
     + Solidity (Ethereum, dApp)

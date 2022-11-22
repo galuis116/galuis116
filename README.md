@@ -1,9 +1,10 @@
 
 
 <h1 align="center">👋 Senior Web and Mobile developer</h1>
-
-😎 Trusted engineer with 10+ years of experience in Web and Mobile industry.
-    Web3 JavaScript & AI engineer with over 5+ years of experience. 
+   
+   ### Trusted engineer with 10+ years of experience in Web and Mobile industry.
+   ### Web3 JavaScript & AI engineer with over 5+ years of experience. 
+   ---
     I'm PASSIONATE about building products that solve problems with strong Math knowledge background.
     I've worked on a variety of projects to help many clients build their successful solutions.
     I specialize in JavaScript, PHP, Python and C++. And my skills include:

@@ -11,12 +11,9 @@
 
     + Mobile Developer 
     + Full Stack JavaScript for Web3
-    + Full Stack Web Dev
+    + Full Stack Web Dev(OpenCart, CodeIgniter)
     + Solidity (Ethereum, dApp)
-    + DL/ML (TensorFlow, Caffe)
-    + Data visualization (Power BI)
-    + 3D CAD (SolidWorks)
-    + English Teaching
+
 
 - 🔭 Frontend: React.js, Vue.js, Next.js, Nuxt.js, TypeScript,  etc
 - 🌱 Backend :  Node.js/Express.js, Nest.js, Laravel, CodeIgniter, Python, Django, Flask, Ruby on Rails, Java Spring Boot, Java,

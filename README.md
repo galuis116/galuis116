@@ -20,6 +20,7 @@
 JavaFX, Swing, C/C++, QT, Visual C++, C#, VB.NET etc
 - 👯 Mobile : Ios/Android, React Native, Kotlin, Flutter and Hybrid etc
 - 👨‍👩‍👧‍👦Skype ID: live:.cid.83c88d679e7cbc7e
+- 👨‍👩‍👧‍👦Telegram: +1 430 298 2269
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Acetobi0302&label=Profile%20views&color=0e75b6&style=flat" alt="Acetobi0302" /> </p>
 <p align="center" style = "size:16px;">
